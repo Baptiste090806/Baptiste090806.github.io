@@ -9,12 +9,12 @@ hero_image_ratio: is-1by3
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en Énergie renouvelable
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 15 juin 2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Prenom.Nom[at]xxx.com](baptiste.guilbert@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
