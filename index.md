@@ -3,9 +3,9 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: assets/imgs/IMG_7739.jpeg
+hero_image: assets/imgs/IMG_7739_480x600.png
 hero_image_alt: Ma photo
-hero_image_ratio: is-1by3
+hero_image_ratio: is-4by5
 ---
 
 # Prénom NOM
