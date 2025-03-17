@@ -28,12 +28,8 @@ Permis B, voiture
 Eleve en cycle pré-ingénieur en Energie et Numérique 
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac SVT-Physique-chimie math complémentaire , mention bien , Lycée Marie Curie Nogent-sur-oise 
 
 ## Expériences
 
@@ -79,11 +75,5 @@ Loisirs 1
 Loisirs 1
 * Description 
 * Description 
-layout: promo-page
-title:CV
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
-menubar: menu_bar
-hero_image: assets/imgs/IMG_7739_480x600.png
-hero_image_alt: Ma photo
-hero_image_ratio: is-4by5
+
 
