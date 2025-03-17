@@ -1,6 +1,6 @@
 ---
 layout: promo-page
-title:CV
+title: CV
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
 hero_image: assets/imgs/IMG_7739_480x600.png
