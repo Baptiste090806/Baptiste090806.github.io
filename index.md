@@ -44,6 +44,8 @@ _Réalisé en équipe de 3 étudiants_
 Saisonnier – Vendeur au relais H de l’hôpital de Creil
        • Objectif : servir , échanger, contrôler la pression de
         L’environnement , Contact client
+
+
 2021, Senlis      1 semaine
 Stage d’observation en tant que vendeur à la bicyclette
  · Objectif : Servir , contact client , Découvrir la vente
