@@ -39,7 +39,7 @@ _Réalisé en équipe de 3 étudiants_
 *Objectif crée un robot capable de marcher pour participer à un tournoi de Robot en fin d'année (OnShape , Arduino , utilisation de l'impression 3D)
 
  
-##Autres Expériences
+## Autres Expériences
 2024   ,   1 mois , Creil
 Saisonnier – Vendeur au relais H de l’hôpital de Creil
        • Objectif : servir , échanger, contrôler la pression de
