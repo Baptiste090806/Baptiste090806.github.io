@@ -37,25 +37,17 @@ Bac SVT-Physique-chimie math complémentaire , mention bien , Lycée Marie Curie
 
 _Réalisé en équipe de 3 étudiants_
 *Objectif crée un robot capable de marcher pour participer à un tournoi de Robot en fin d'année (OnShape , Arduino , utilisation de l'impression 3D)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`2025` **Projet d’étude – préciser le thème du projet**
  
+##Autres Expériences
+2024   ,   1 mois , Creil
+Saisonnier – Vendeur au relais H de l’hôpital de Creil
+       • Objectif : servir , échanger, contrôler la pression de
+        L’environnement , Contact client
+2021, Senlis      1 semaine
+Stage d’observation en tant que vendeur à la bicyclette
+ · Objectif : Servir , contact client , Découvrir la vente
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`2020` **Association Baïka chat **
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-## Compétences
 
 Langues
 * LV1 Anglais  : B1 
@@ -71,11 +63,10 @@ Autres
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+* Course à pieds 
+* Natation 
+* Cyclisme 
+* Lire
+* Musculation
 
 
